@@ -2,20 +2,20 @@
 import React, {useEffect, useState} from 'react';
 import './output.css'
 import Images from './images';
+import Board from './components/board';
 
 
 
 function App() {
 
     return (
-      <div style={{height: window.innerHeight, width: window.innerWidth}} className="font-default">
+      <div style={{height: window.innerHeight, width: window.innerWidth}} className="font-default bg-neutral-800 overflow-hidden">
         <header>
 
         </header>
 
         <main className='flex flex-col h-full justify-center items-center text-center'>
-          <Images title={'tailwind'} classes={'h-28'} />
-          <Images title={'react'} classes={'h-14'} />
+          <Board />
         </main>
 
         <footer>

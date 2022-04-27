@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/DillanThomas88/Iththo/static/css/main.93b9b537.css",
-    "main.js": "/DillanThomas88/Iththo/static/js/main.8e7a6ad4.js",
+    "main.css": "/DillanThomas88/Iththo/static/css/main.0041bba1.css",
+    "main.js": "/DillanThomas88/Iththo/static/js/main.5ab83f77.js",
     "static/js/787.ca78f21f.chunk.js": "/DillanThomas88/Iththo/static/js/787.ca78f21f.chunk.js",
     "index.html": "/DillanThomas88/Iththo/index.html",
-    "main.93b9b537.css.map": "/DillanThomas88/Iththo/static/css/main.93b9b537.css.map",
-    "main.8e7a6ad4.js.map": "/DillanThomas88/Iththo/static/js/main.8e7a6ad4.js.map",
+    "static/media/blackKing.svg": "/DillanThomas88/Iththo/static/media/blackKing.6a165211fd4cf5bbf32e795f250c8aa3.svg",
+    "main.0041bba1.css.map": "/DillanThomas88/Iththo/static/css/main.0041bba1.css.map",
+    "main.5ab83f77.js.map": "/DillanThomas88/Iththo/static/js/main.5ab83f77.js.map",
     "787.ca78f21f.chunk.js.map": "/DillanThomas88/Iththo/static/js/787.ca78f21f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.93b9b537.css",
-    "static/js/main.8e7a6ad4.js"
+    "static/css/main.0041bba1.css",
+    "static/js/main.5ab83f77.js"
   ]
 }
